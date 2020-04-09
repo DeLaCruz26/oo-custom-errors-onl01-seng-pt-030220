@@ -14,7 +14,7 @@ class Person
     end
   end
 
-  def PartnerError < StandardError
+  class PartnerError < StandardError
   end
 
 end
